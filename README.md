@@ -1,6 +1,10 @@
 # Vue Covid-19 Tracker
 
-Displays the new/total cases and deaths globaly as well as per country
+![](https://vercelbadge.vercel.app/api/humble-barnacle001/vue-covid-tracker)
+
+Displays the new/total cases and deaths globaly as well as per country.
+
+View here: https://barnacle-covid-tracker.vercel.app/
 
 ## API
 
