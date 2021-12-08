@@ -32,15 +32,14 @@
 
 <script>
 export default {
-  name: 'DataBoxes',
-  props: ['stats'],
-  setup () {
+  name: "DataBoxes",
+  props: ["stats"],
+  setup() {
     return {
-      numberWithCommas (x) {
-        return x.toString()
-          .replace(/\B(?=(\d{3})+(?!\d))/g, ',');
-      }
+      numberWithCommas(x) {
+        return x.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
+      },
     };
-  }
+  },
 };
 </script>
