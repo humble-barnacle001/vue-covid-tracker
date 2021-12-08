@@ -1,6 +1,6 @@
 # Vue Covid-19 Tracker
 
-![](https://vercelbadge.vercel.app/api/humble-barnacle001/vue-covid-tracker)
+![GitHub package.json version](https://img.shields.io/github/package-json/v/humble-barnacle001/vue-covid-tracker) ![Vercel Status](https://vercelbadge.vercel.app/api/humble-barnacle001/vue-covid-tracker) ![Uptime Robot status](https://img.shields.io/uptimerobot/status/m789999670-a2d32ff86edbcd5a6279ea96) ![Chromium HSTS preload](https://img.shields.io/hsts/preload/barnacle-covid-tracker.vercel.app) ![W3C Validation](https://img.shields.io/w3c-validation/html?targetUrl=https%3A%2F%2Fbarnacle-covid-tracker.vercel.app%2F) ![GitHub License](https://img.shields.io/github/license/humble-barnacle001/vue-covid-tracker) ![GitHub last commit](https://img.shields.io/github/last-commit/humble-barnacle001/vue-covid-tracker)
 
 Displays the new/total cases and deaths globaly as well as per country.
 
