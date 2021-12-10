@@ -27,7 +27,12 @@
 
   <main v-else class="flex flex-col align-center justify-center text-center">
     <div class="text-gray-500 text-3xl mt-10 mb-6">Fetching Data</div>
-    <img :src="require('../assets/hourglass.gif')" alt="" class="w-24 m-auto" />
+    <div>
+      <span class="text-8xl inline-block animate-spin">
+        <i class="bi bi-arrow-clockwise"></i>
+      </span>
+    </div>
+    <!-- <img :src="require('../assets/hourglass.gif')" alt="" class="w-24 m-auto" /> -->
   </main>
 </template>
 

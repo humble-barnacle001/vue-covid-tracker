@@ -11,7 +11,8 @@
     "
   >
     <div class="text-3xl md:text-5xl font-bold mb-3">
-      <i class="fa fa-viruses"></i> Covid-19 Tracker
+      <i class="bi bi-info-circle"></i>
+      Covid-19 Tracker
     </div>
 
     <p>
@@ -23,7 +24,7 @@
         class="text-yellow-200"
         href="https://github.com/humble-barnacle001/vue-covid-tracker"
         target="_blank"
-        ><i class="fab fa-github"></i> humble-barnacle001</a
+        ><i class="bi bi-github"></i> humble-barnacle001</a
       >
     </p>
   </header>
